@@ -5,7 +5,6 @@
 	"description": "Agro Ecommerce",
 	"main": "server.js",
 	"scripts": {
-		"build": "cd frontend && npm install && npm run build",
 		"start": "node server.js"
 	},
 	"engines": {
